@@ -10,12 +10,12 @@ GitHub Repository
 
 Documentation
 ---
+|File | Download Link |
+|--- | --- |
 |Requirements |  [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Req1.pdf) |
 |Architecture | [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Arch1.pdf) |
 |Method Selection | [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Method1.pdf) |
 |Risk Assessment | [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Risk1.pdf) |
 |Implementation | [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Imp1.pdf) |
----
 
-|Diagrams
-|---
+Diagrams
