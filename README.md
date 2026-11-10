@@ -8,8 +8,8 @@ This website serves as the central hub for our project and contains our document
 Download (.jar)
 GitHub Repository
 
-|Documentation |
-|--- |
+Documentation
+---
 |Requirements |  [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Req1.pdf) |
 |Architecture | [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Arch1.pdf) |
 |Method Selection | [PDF](https://github.com/goose-meat-eng1/eng1.github.io/blob/main/Method1.pdf) |
