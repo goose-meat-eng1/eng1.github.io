@@ -1,0 +1,61 @@
+@startuml d2-model-classes
+
+!include style.iuml
+title Goose Patrol: D2 model classes
+caption v0.4.0, 9 Nov 2026. Names and key operations only.
+hide circle
+hide empty members
+
+class GameSetup
+class GameSession {
+  state: RunState
+  start()
+  togglePause()
+  update(delta)
+  setMoveInput(x, y)
+  useItem(item: Items)
+}
+class GameClock
+class Player
+class CampusMap
+class Inventory
+class GooseSpawner
+class BreadDispenser
+class Goose
+class GooseMan
+class Bread
+class Egg
+interface Feedable <<interface>> {
+  canEat(): Boolean
+  feed(): Boolean
+}
+class MovingBox
+
+GameSetup ..> GameSession : <<create>>
+
+GameSession -->  GameClock
+GameSession -->  Player
+GameSession -->  CampusMap
+GameSession -->  Inventory
+GameSession --->  GooseSpawner
+GameSession --->  BreadDispenser
+GameSession ---->  Goose
+GameSession ---->  GooseMan
+GameSession ---->  Bread
+GameSession ---->  Egg
+
+GooseSpawner ..> Goose : <<create>>
+GooseSpawner ..> GooseMan : <<create>>
+BreadDispenser ..> Bread : <<create>>
+Bread -->  Feedable : target
+Goose ..|> Feedable
+GooseMan ..|> Feedable
+Player --> MovingBox
+Goose --> MovingBox
+GooseMan --> MovingBox
+
+Bread -[hidden]right- Egg
+CampusMap -[hidden]down- Inventory
+GameClock -[hidden]down- Player
+
+@enduml
