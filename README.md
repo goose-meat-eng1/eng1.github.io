@@ -13,11 +13,11 @@ This website serves as the central hub for our project and contains our document
 
 |File | Download Link |
 |--- | --- |
-|Requirements |  [PDF](pdfs/Req1.pdf) |
+|Requirements |  [PDF](https://drive.google.com/file/d/14oKfW6FJaxlAcV9RA01ebuOE0PAtt9mn/view?usp=sharing) |
 |Architecture | [PDF](pdfs/Arch1.pdf) |
-|Method Selection and Planning | [PDF](pdfs/Plan1.pdf) |
+|Method Selection and Planning | [PDF](https://drive.google.com/file/d/1TNC2rKW0jkacRPypFQ1YPX1JE-S0D3k-/view?usp=sharing) |
 |Risk Assessment | [PDF](pdfs/Risk1.pdf) |
-|Implementation | [PDF](pdfs/Imp1.pdf) |
+|Implementation | [PDF](https://drive.google.com/file/d/1auzA3-Gk0JrbhYUgaMcJd6N5V5_aZF1S/view?usp=sharing) |
 
 [Diagrams](architecture.md)
 
