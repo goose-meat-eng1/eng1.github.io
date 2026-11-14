@@ -5,7 +5,7 @@ Group 6
 
 This website serves as the central hub for our project and contains our documentation, full plantUML diagrams and their history, and the download for our game.
 
-[Download](.jar)
+[Download](https://drive.google.com/file/d/1dVFjK-v4iF1W65Pms_BrndhtHb8NNAuC/view?usp=sharing)
 
 [GitHub Repository](https://github.com/goose-meat-eng1/goose-patrol)
 
