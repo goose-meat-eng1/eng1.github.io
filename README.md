@@ -21,6 +21,8 @@ This website serves as the central hub for our project and contains our document
 
 [Diagrams](architecture.md)
 
+[Planning](planning.md)
+
 ## Team
 
 Ender Ali
