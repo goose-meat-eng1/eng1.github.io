@@ -72,8 +72,8 @@ our Requirements document (Req1).
 
 ### Initial CRC Cards (13 October 2026)
 
-[![Model Classes CRC](initial-crc/package.jpg)](initial-crc/package.jpg)
+[![Model Classes CRC](initial-crc/package.jpg)](initial-crc/modelclasses.jpg)
 
 [![Components CRC](initial-crc/components.jpg)](initial-crc/components.jpg)
 
-[![Package CRC](initial-crc/modelboard.jpg)](initial-crc/modelboard.jpg)
+[![Package CRC](initial-crc/modelboard.jpg)](initial-crc/package.jpg)
