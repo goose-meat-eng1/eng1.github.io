@@ -1,4 +1,4 @@
-# eng1.github.io
+# Goose Patrol
 
 Cohort 2
 Group 6
@@ -20,3 +20,13 @@ This website serves as the central hub for our project and contains our document
 |Implementation | [PDF](pdfs/Imp1.pdf) |
 
 [Diagrams](architecture.md)
+
+## Team
+
+Ender Ali
+Vefa Ceylan
+Noor Mohammed
+Deneth Ramanayake
+Neel Kara
+Harry Trigg
+William Martin

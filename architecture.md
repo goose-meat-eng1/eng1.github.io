@@ -42,6 +42,14 @@ our Requirements document (Req1).
 
 ### v0.2.0 diagrams (17 October 2026)
 
+| Report figure | Diagram | Kind of UML diagram |
+| --- | --- | --- |
+| Figure 1 | [D1 component overview](#d1-package-overview) | Package diagram |
+| Figure 2 | [D2 model classes](#d2-model-classes) | Class diagram |
+| Figure 3 | [D3 run states](#d3-run-states) | State machine diagram |
+| Figure 5 | [D4 one frame of play](#d4-one-frame-of-play) | Sequence diagram |
+| Figure 6 (website only) | [D5 using an item](#d5-using-an-item) | Sequence diagram |
+
 **D1 package overview**
 
 [![D1 package overview, v0.2.0](diagrams/v0.2.0/out/d1-package-overview.svg)](diagrams/v0.2.0/out/d1-package-overview.svg)
