@@ -5,7 +5,7 @@ under [`docs/architecture`](https://github.com/goose-meat-eng1/goose-patrol/tree
 Class, operation and state names are the names in the Java code, and requirement IDs are those of
 our Requirements document (Req1).
 
-## Current diagrams (v0.4.0)
+## Current diagrams (v0.4.0) (13 November)
 
 | Report figure | Diagram | Kind of UML diagram |
 | --- | --- | --- |
@@ -69,3 +69,11 @@ our Requirements document (Req1).
 **D5 using an item**
 
 [![D5 using an item, v0.2.0](diagrams/v0.2.0/out/d5-use-item-sequence.svg)](diagrams/v0.2.0/out/d5-use-item-sequence.svg)
+
+### Initial CRC Cards (13 October 2026)
+
+[![Model Classes CRC](initial-crc/package.jpg)](initial-crc/package.jpg)
+
+[![Components CRC](initial-crc/components.jpg)](initial-crc/components.jpg)
+
+[![Package CRC](initial-crc/modelboard.jpg)](initial-crc/modelboard.jpg)
